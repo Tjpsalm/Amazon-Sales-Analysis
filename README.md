@@ -30,3 +30,22 @@ EDA involved exploring the sales data to answer key questions, such as
 - Which products sell better online vs. offline?
 - Are there any product categories with negative or low profitability?
 - What is the average shipping time, and does it impact sales performance?
+
+# Key Insights & Findings From the data
+After analyzing the dataset, here are the most important insights related to sales performance, profitability, regional trends, and operational efficiency.
+
+- Cosmetics, Office Supplies, and Household items drive the majority of sales and profits.
+- Cosmetics and Office Supplies dominate total sales revenue.
+- Honduras leads in total sales revenue.
+- Offline sales outperform online sales, contributing to a higher revenue share.
+- Average Days Between Order & Ship Date: ≈ 3 - 5 days
+- Delayed Orders (>7 days shipping time): ~15%
+
+## Recommendations
+- Increase marketing for Cosmetics, Office Supplies, and Household items.
+- Despite strong offline sales, optimizing e-commerce strategies can drive more revenue.
+- Focus on high-revenue countries like Honduras, Myanmar, and Djibouti.
+- Prioritizing critical and high-priority orders can boost revenue.
+- Strengthen online sales strategies to capture more market share.
+
+
