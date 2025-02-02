@@ -48,4 +48,8 @@ After analyzing the dataset, here are the most important insights related to sal
 - Prioritizing critical and high-priority orders can boost revenue.
 - Strengthen online sales strategies to capture more market share.
 
+![image](https://github.com/user-attachments/assets/da278e1f-ff4e-414e-8f40-83298cc99f9e)
+
+![image](https://github.com/user-attachments/assets/cf616199-47d1-4d63-b454-b229b8a31218)
+
 
